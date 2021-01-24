@@ -1,4 +1,4 @@
-# Predicting-heart-condition
+# Predicting Heart Condition 
 
 # Dataset Information:
 The dataset consists of 303 rows and 14 columns with label Target. Data contains categorical as well as continuous data.
